@@ -10,4 +10,4 @@
 
 <img src="https://github.com/ohsopp/ohsopp/blob/output/github-snake-dark.svg" width="94%">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus0545)](https://solved.ac/wjdgus0545) <img src="https://mazandi.herokuapp.com/api?handle=wjdgus0545&theme=warm">
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus0545)](https://solved.ac/wjdgus0545) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjdgus0545&theme=cold)
