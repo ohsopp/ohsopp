@@ -42,9 +42,7 @@
 </p>
 
 
-<br/>
-
----
+<br/><br/>
 
 ## 🧠 소개
 
@@ -60,7 +58,7 @@ C++, Python, 딥러닝, 시스템 프로그래밍을 활용해 스마트한 솔�
 - 현재 PyQt5를 활용한 Auto Image Labeling & Embedding Tool 개발 중 (YoloADE, 자동 이미지 라벨링부터 데이터 임베딩, 학습 및 추론까지 GUI로 가능하도록)
 
 
----
+<br/><br/><br/>
 
 ## 🚀 기술 스택
 
@@ -88,7 +86,7 @@ C++, Python, 딥러닝, 시스템 프로그래밍을 활용해 스마트한 솔�
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
----
+<br/><br/><br/>
 
 ## 📊 GitHub 활동
 
@@ -102,7 +100,7 @@ C++, Python, 딥러닝, 시스템 프로그래밍을 활용해 스마트한 솔�
   <img src="https://github.com/ohsopp/ohsopp/blob/output/github-snake-dark.svg" width="90%"/>
 </p>
 
----
+<br/><br/><br/>
 
 ## 🏁 주요 프로젝트
 
@@ -111,7 +109,7 @@ C++, Python, 딥러닝, 시스템 프로그래밍을 활용해 스마트한 솔�
 - 💊 **Mediro** – OCR 기반 처방전 인식 및 얼굴 인증 로봇 약 전달 시스템  
 - 🧠 **수어 인식** – 딥러닝 기반 한국 수어 인식 성능 향상 프로젝트  
 
----
+<br/><br/><br/>
 
 <p align="center">
   <a href="https://solved.ac/wjdgus0545">
