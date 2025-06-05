@@ -13,23 +13,19 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus0545)](https://solved.ac/wjdgus0545) <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjdgus0545&theme=cold) -->
 
 
-| <img src="https://truth-heron-02d.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F358e1119-68a5-40fa-9dd3-91dd98db27e9%2Fd65116f1-945c-4c89-af45-0f0d620609ca%2Fphoto_0.jpg?table=block&id=15a2bfb3-aad0-80a2-b354-c423e0f444c7&spaceId=358e1119-68a5-40fa-9dd3-91dd98db27e9&width=250&userId=&cache=v2" width="150" style="border-radius:50%;" /> |  
+<div align="center" style="display: flex; justify-content: center; align-items: center; border: 1px solid #ddd; border-radius: 12px; padding: 20px; max-width: 700px; margin: auto; background-color: #fafafa;">
+  <div align="left">
+    <h1 style="margin: 0 0 10px 0;">안녕하세요, 오정현입니다 👋</h1>
+  </div>
+</div>
 
-| :-------------------------: | :---------------------------------------: |  
-|                             |  
-### 안녕하세요, 정현오입니다! 👋  
-- **Embedded AI Engineer | Full-stack Developer**  
-- C/C++, Python, TensorFlow, PyTorch 전문가  
-- 소프트웨어, 머신러닝, 임베디드 시스템 열정가  
-- [이메일](mailto:wjdgus0545@gmail.com) | [포트폴리오](https://truth-heron-02d.notion.site/AI-15a2bfb3aad080a2b354c423e0f444c7) | [GitHub](https://github.com/ohsopp)  
-|
+<br/><br/>
 
 
 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:B06AB3&height=200&section=header&text=Hi,%20I'm%20JeongHyeon%20OH!&fontSize=40&fontAlign=50&fontColor=ffffff" />
-</p>
+</p> -->
 
 <p align="center">
   <b>임베디드 AI 엔지니어 | 풀스택 개발자 | 머신러닝 애호가</b><br/>
@@ -64,16 +60,19 @@
 C++, Python, 딥러닝, 시스템 프로그래밍을 활용해 스마트한 솔루션을 구축합니다.
 </p>
 
+
 - 🎓 컴퓨터공학 전공  
 - 🛠 인공지능, 임베디드 소프트웨어, 풀스택 개발 경험  
 - 🤖 ML & CV 프로젝트 경험 多 (객체 추적, OCR, 모션 인식 등)
 - Tensorflow 자체 모델 개발 경험 (데이터 수집, 임베딩, 모델 설계, 학습 및 추론, 하이퍼파라미터 튜닝 까지 E2E)
-- 현재 PyQt5를 활용한 Auto Image Labeling & Embedding Tool 개발 중 (YoloADE, 자동 이미지 라벨링부터 데이터 임베딩, 학습 및 추론까지 GUI로 가능하도록)
+- 현재 PyQt5를 활용한 Auto Image Labeling & Embedding GUI Tool 개발 중 (YoloADE)
 
 
 <br/><br/><br/>
 
 ## 🚀 기술 스택
+
+<br/><br/>
 
 <p align="center">
   <!-- 언어 -->
@@ -109,7 +108,7 @@ C++, Python, 딥러닝, 시스템 프로그래밍을 활용해 스마트한 솔�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohsopp&theme=react-dark&bg_color=eff8ff&hide_border=true&line=e5c1c5&color=58A6FF" width="90%"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohsopp&theme=react-dark&bg_color=eff8ff&hide_border=true&line=e5c1c5&color=58A6FF" width="90%"/> -->
   <img src="https://github.com/ohsopp/ohsopp/blob/output/github-snake-dark.svg" width="90%"/>
 </p>
 
