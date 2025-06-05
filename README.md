@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="wjdgus0545@gmail.com">📧 이메일</a> •
-  <a href="https://yourportfolio.com" target="_blank">🌐 포트폴리오</a> •
+  <a href="https://truth-heron-02d.notion.site/AI-15a2bfb3aad080a2b354c423e0f444c7" target="_blank">🌐 포트폴리오</a> •
   <a href="https://github.com/ohsopp">🐙 GitHub</a> •
   <a href="https://devohsopp.tistory.com" target="_blank">📝 블로그</a>
 </p>
