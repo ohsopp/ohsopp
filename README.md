@@ -25,10 +25,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 이메일</a> •
+  <a href="wjdgus0545@gmail.com">📧 이메일</a> •
   <a href="https://yourportfolio.com" target="_blank">🌐 포트폴리오</a> •
   <a href="https://github.com/ohsopp">🐙 GitHub</a> •
-  <a href="https://yourblog.tistory.com" target="_blank">📝 블로그</a>
+  <a href="https://devohsopp.tistory.com" target="_blank">📝 블로그</a>
 </p>
 
 ---
