@@ -21,27 +21,28 @@
 
 <p align="center">
   <b>임베디드 AI 엔지니어 | 풀스택 개발자 | 머신러닝 애호가</b><br/>
-  소프트웨어, 머신러닝, 임베디드 시스템을 통해 실제 문제를 해결하는 것을 좋아합니다.
+  소프트웨어, 머신러닝, 임베디드 시스템을 통해 기술의 가치를 '재발견'해내는 것을 좋아합니다.
 </p>
 
+<br/>
 
 <p align="center">
   <a href="mailto:wjdgus0545@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://truth-heron-02d.notion.site/AI-15a2bfb3aad080a2b354c423e0f444c7" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ohsopp" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://devohsopp.tistory.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white" alt="Blog" />
   </a>
 </p>
 
 
-
+<br/>
 
 ---
 
