@@ -13,6 +13,18 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus0545)](https://solved.ac/wjdgus0545) <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjdgus0545&theme=cold) -->
 
 
+| <img src="https://truth-heron-02d.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F358e1119-68a5-40fa-9dd3-91dd98db27e9%2Fd65116f1-945c-4c89-af45-0f0d620609ca%2Fphoto_0.jpg?table=block&id=15a2bfb3-aad0-80a2-b354-c423e0f444c7&spaceId=358e1119-68a5-40fa-9dd3-91dd98db27e9&width=250&userId=&cache=v2" width="150" style="border-radius:50%;" /> |  
+
+| :-------------------------: | :---------------------------------------: |  
+|                             |  
+### 안녕하세요, 정현오입니다! 👋  
+- **Embedded AI Engineer | Full-stack Developer**  
+- C/C++, Python, TensorFlow, PyTorch 전문가  
+- 소프트웨어, 머신러닝, 임베디드 시스템 열정가  
+- [이메일](mailto:wjdgus0545@gmail.com) | [포트폴리오](https://truth-heron-02d.notion.site/AI-15a2bfb3aad080a2b354c423e0f444c7) | [GitHub](https://github.com/ohsopp)  
+|
+
+
 
 
 <p align="center">
